@@ -2,11 +2,11 @@
   "main": {
     "name":"Henry Gu",
     "occupation":"Mechatronics Engineering Student",
-    "description":"Self-starting, team-minded and adept at learning new knowledge",
+    "description":"Self-starting, team-minded and adept at learning new knowledge, I'd love to be a part of your community",
     "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "bio":"Hardware-bound, I love to see what I can create, but I'd love it more in a team environment. Communication is the key to problem-solving, hard work is the key to growth.",
     "contactmessage":"Feel free to reach me anytime.",
-    "email": "h55gu@uwaterloo.ca",
+    "email": "henrygu054@gmail.com",
     "phone": "647-918-6835",
     "address":{
       "street":"80 Acorn Place",
@@ -36,7 +36,7 @@
         "school":"University of Waterloo",
         "degree":"Mechatonics Engineering BAsc.",
         "graduated":"April 2025",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "description":"GPA: 4.00"
       }
     ],
     "work":[
